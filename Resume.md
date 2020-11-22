@@ -13,6 +13,14 @@
 <br>
 
 ## Professional Experience - 8 Years 9 Months
+
+### Mousebelly Food and Beverages Pvt Ltd - 2018
+- 
+
+### NIIT - Training Specialist - 2015 - 2020
+- Received the Inspiring Mentor Award for consistent and skilled delivery out of a pool of 20
+
+### Honeywell Automation India Ltd - 2018
 - 
 
 <br>
