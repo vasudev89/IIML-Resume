@@ -17,7 +17,7 @@
 ### Mousebelly Food and Beverages Pvt Ltd - 2018
 - Co-founded an internet startup in the F&B sector with a two-sided marketplace business model in the NCR Region which attracted VC interest in the first year
 - Managed Financial and IT Operations of the firm, including collections, cash flows, web presence etc.
-- Devised a social entrepreneurship model to improve the companies operational cashflow
+- Devised an innovative social entrepreneurship model to improve the company's operational cashflow while improving employee loyalty
 
 ### NIIT - Training Specialist - 2015 - 2020
 - Received the Inspiring Mentor Award out of 20 trainers for consistent and skilled delivery
