@@ -5,16 +5,24 @@
 - Email: vasudev181989@gmail.com
 - <a href="https://www.linkedin.com/in/vasudev-vashisht-0b377959/">Linked In Profile</a>
 
+<br>
+
 ## Career Summary
 - 
 
+<br>
+
 ## Certification
 - NIIT Diploma - Java Specialization 2015
+
+<br>
 
 ## Extra Curriculars
 #### Club Activities
 - Elected Member of the IT Club
 - Elected Member of the Ranking Team
+
+<br>
 
 #### Hobbies
 - Avid Guitar Player: I have taken part in various music events at college both in graduate and masters.
