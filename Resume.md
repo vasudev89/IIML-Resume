@@ -15,7 +15,9 @@
 ## Professional Experience - 8 Years 9 Months
 
 ### Mousebelly Food and Beverages Pvt Ltd - 2018
-- 
+- Serviced 60+ B2C Customers
+- Monthly Meal Order service
+- Upgraded version of a Tiffin Service
 
 ### NIIT - Training Specialist - 2015 - 2020
 - Received the Inspiring Mentor Award for consistent and skilled delivery out of a pool of 20
@@ -64,8 +66,8 @@
 
 ## Extra Curriculars
 #### Club Activities
-- Elected Member of the IT Club: Held and conducted sessions on Fundamentals of Python, Excel, Tableau, and Databases among others
-- Elected Member of the Ranking Team: Data gathering via surveys from Alumni followed by Result Analysis. Also held sessions with Alumni for Query Resolution and giving Updates. 
+- Elected Member of the IT Club: Held and conducted sessions on Fundamentals of Python, Excel, Tableau, and Databases
+- Elected Member of the Ranking Team: Data gathering via surveys from Alumni followed by Quantitative Analysis. Also held sessions with Alumni for Query Resolution and giving Updates. 
 
 <br>
 
