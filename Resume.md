@@ -12,6 +12,34 @@
 
 <br>
 
+## Education
+<table>
+	<thead>
+		<tr>
+			<td>Course</td>
+			<td>Institute</td>
+			<td>Year</td>
+			<td>Remarks</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>IPMX</td>
+			<td>IIML</td>
+			<td>2020-21</td>
+			<td>Pursuing</td>
+		</tr>
+		<tr>
+			<td>B. Tech - CS Engineering</td>
+			<td>ITS Engg. College - UTPU</td>
+			<td>2006-10</td>
+			<td>Honors Student with 4th Rank in Branch</td>
+		</tr>
+	</tbody>
+</table>
+
+<br>
+
 ## Certification
 - NIIT Diploma - Java Specialization 2015
 
