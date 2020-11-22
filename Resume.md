@@ -22,7 +22,7 @@
 ### NIIT - Training Specialist - 2015 - 2020
 - Delivered Advanced IT Training in Python, Java, and Web Development 
 - Trained over 100 batches of students, working professionals and special batches of military and foreign embassy staff
-- Led concept-to-execution of a special project to improve the company's operational efficiency by creating a web-based python tool to generate company-wide performance reports   
+- Led concept-to-execution of a company-wide efficiency improvement automated audits with a proprietary code and formulated a comprehensive improvement strategy roadmap
 - Received the Inspiring Mentor Award out of 20 trainers for consistent and skilled delivery
 
 ### Honeywell Automation India Ltd - 2010 - 2014
