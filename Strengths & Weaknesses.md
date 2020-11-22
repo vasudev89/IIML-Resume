@@ -15,12 +15,14 @@
 			<td>Internal</td>
 			<td>
 				<b>STRENGTHS</b>
+				<br>
 				<ul>
 					<li>Passion for combining IT and Product Development</li>
 				</ul>
 			</td>
 			<td>
 				<b>WEAKNESSES</b>
+				<br>
 				<ul>
 					<li>Can't work alone. Need a team or help from others to understand concepts</li>
 				</ul>
@@ -30,9 +32,11 @@
 			<td>External</td>
 			<td>
 				<b>OPPORTUNITIES</b>
+				<br>
 			</td>
 			<td>
 				<b>THREATS</b>
+				<br>
 			</td>
 		</tr>
 	</tbody>	
