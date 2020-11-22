@@ -12,7 +12,7 @@
 
 <br>
 
-## Professional Experience
+## Professional Experience - 8 Years 9 Months
 - 
 
 <br>
