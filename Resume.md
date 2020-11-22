@@ -8,7 +8,8 @@
 <br>
 
 ## Career Summary
-- 
+- Senior Professional and Entrepreneurial Minset with 8+ years of Cross Functional Experience in Industrial Automation, Corporate Training and F&B domains
+- Expertise in IT Software, Web ,and Application Development with hands on experience of product development
 
 <br>
 
@@ -72,8 +73,8 @@
 
 ## Extra Curriculars
 #### Club Activities
-- Elected Member of the IT Club: Held and conducted sessions on Fundamentals of Python, Excel, Tableau, and Databases
-- Elected Member of the Ranking Team: Data gathering via surveys from Alumni followed by Quantitative Analysis. Also held sessions with Alumni for Query Resolution and giving updates. 
+- Elected Member - IT Club: Held and conducted sessions on Fundamentals of Python, Excel, Tableau, and Databases
+- Elected Member - Global Ranking Team: Data gathering via surveys from Alumni followed by Quantitative Analysis. Also held sessions with Alumni for Query Resolution and giving updates. 
 
 <br>
 
