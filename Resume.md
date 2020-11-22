@@ -16,10 +16,10 @@
 <table>
 	<thead>
 		<tr>
-			<td>Course</td>
-			<td>Institute</td>
-			<td>Year</td>
-			<td>Remarks</td>
+			<th>Course</th>
+			<th>Institute</th>
+			<th>Year</th>
+			<th>Remarks</th>
 		</tr>
 	</thead>
 	<tbody>
