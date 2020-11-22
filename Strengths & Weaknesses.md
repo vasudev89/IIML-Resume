@@ -14,19 +14,19 @@
 		<tr>
 			<td>Internal</td>
 			<td>
-				STRENGTHS
+				<b>STRENGTHS</b>
 			</td>
 			<td>
-				WEAKNESSES
+				<b>WEAKNESSES</b>
 			</td>
 		</tr>
 		<tr>
 			<td>External</td>
 			<td>
-				OPPORTUNITIES
+				<b>OPPORTUNITIES</b>
 			</td>
 			<td>
-				THREATS
+				<b>THREATS</b>
 			</td>
 		</tr>
 	</tbody>	
