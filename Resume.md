@@ -15,12 +15,13 @@
 ## Professional Experience - 8 Years 9 Months
 
 ### Mousebelly Food and Beverages Pvt Ltd - 2018
+- Founded an internet startup in the F&B sector with a two-sided marketplace business model in the NCR Region and attracted VC interested 
 - Serviced 60+ B2C Customers
 - Monthly Meal Order service
 - Upgraded version of a Tiffin Service
 
 ### NIIT - Training Specialist - 2015 - 2020
-- Received the Inspiring Mentor Award for consistent and skilled delivery out of a pool of 20
+- Received the Inspiring Mentor Award out of 20 trainers for consistent and skilled delivery
 
 ### Honeywell Automation India Ltd - 2018
 - 
