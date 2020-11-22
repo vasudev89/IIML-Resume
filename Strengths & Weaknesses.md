@@ -15,9 +15,15 @@
 			<td>Internal</td>
 			<td>
 				<b>STRENGTHS</b>
+				<ul>
+					<li>Passion for combining IT and Product Development</li>
+				</ul>
 			</td>
 			<td>
 				<b>WEAKNESSES</b>
+				<ul>
+					<li>Can't work alone. Need a team or help from others to understand concepts</li>
+				</ul>
 			</td>
 		</tr>
 		<tr>
