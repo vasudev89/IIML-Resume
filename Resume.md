@@ -47,8 +47,8 @@
 
 ## Extra Curriculars
 #### Club Activities
-- Elected Member of the IT Club
-- Elected Member of the Ranking Team
+- Elected Member of the IT Club: Held and conducted sessions on Fundamentals of Python, Excel, Tableau, and Databases among others
+- Elected Member of the Ranking Team: Data gathering via surveys from Alumni followed by Result Analysis. Also held sessions with Alumni for Query Resolution and giving Updates. 
 
 <br>
 
