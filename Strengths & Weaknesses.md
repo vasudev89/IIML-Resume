@@ -16,12 +16,14 @@
 			<td>
 				<b>STRENGTHS</b>
 				<br>
+				<br>
 				<ul>
 					<li>Passion for combining IT and Product Development</li>
 				</ul>
 			</td>
 			<td>
 				<b>WEAKNESSES</b>
+				<br>
 				<br>
 				<ul>
 					<li>Can't work alone. Need a team or help from others to understand concepts</li>
