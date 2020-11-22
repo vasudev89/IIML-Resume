@@ -3,7 +3,7 @@
 ## Vasudev Vashisht
 - Phone: 9868793888
 - Email: vasudev181989@gmail.com
-- <a href="https://www.linkedin.com/in/vasudev-vashisht-0b377959/">Linked In Profile</a>
+- Linked In Profile: <a href="https://www.linkedin.com/in/vasudev-vashisht-0b377959/">https://www.linkedin.com/in/vasudev-vashisht-0b377959/</a>
 
 <br>
 
@@ -73,7 +73,7 @@
 ## Extra Curriculars
 #### Club Activities
 - Elected Member of the IT Club: Held and conducted sessions on Fundamentals of Python, Excel, Tableau, and Databases
-- Elected Member of the Ranking Team: Data gathering via surveys from Alumni followed by Quantitative Analysis. Also held sessions with Alumni for Query Resolution and giving Updates. 
+- Elected Member of the Ranking Team: Data gathering via surveys from Alumni followed by Quantitative Analysis. Also held sessions with Alumni for Query Resolution and giving updates. 
 
 <br>
 
