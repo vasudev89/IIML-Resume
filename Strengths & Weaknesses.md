@@ -18,7 +18,7 @@
 				<br>
 				<br>
 				<ul>
-					<li>Passion for combining IT and Product Development</li>
+					<li>Passionate about combining IT and Product Development</li>
 				</ul>
 			</td>
 			<td>
@@ -27,6 +27,7 @@
 				<br>
 				<ul>
 					<li>Can't work alone. Need a team or help from others to understand concepts</li>
+					<li>Have a tendency of overfitting on ideas and thoughts and getting too involved</li>
 				</ul>
 			</td>
 		</tr>
