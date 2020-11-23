@@ -47,10 +47,20 @@
 			<td>
 				<b>OPPORTUNITIES</b>
 				<br>
+				<br>
+				<ul>
+					<li>Finance</li>
+					<li>IT Technology</li>
+					<li>Product Management</li>
+				</ul>
 			</td>
 			<td>
 				<b>THREATS</b>
 				<br>
+				<br>
+				<ul>
+					<li>Sales Profiles</li>
+				</ul>
 			</td>
 		</tr>
 	</tbody>	
