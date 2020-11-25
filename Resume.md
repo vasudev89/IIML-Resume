@@ -59,7 +59,7 @@
 			<td>ITS Engg. College - UTPU</td>
 			<td>2006-10</td>
 			<td>75.4%</td>
-			<td>Honors Student with 4th Rank in Branch</td>
+			<td>Honours Student with 4th Rank in Branch</td>
 		</tr>
 	</tbody>
 </table>
