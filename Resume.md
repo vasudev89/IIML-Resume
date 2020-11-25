@@ -27,7 +27,7 @@
 - Received the Inspiring Mentor Award out of 20 trainers for consistent and skilled delivery
 
 ### Honeywell Automation India Ltd - 2010 - 2014
-- Led an 8 engineer team to execute Technical and Commercial Operations to install and maintain Building Automation solutions in the Gurgaon Region covering 40+ Commercial Buildings
+- Led a team of 8 engineers to execute Technical and Commercial Operations to install and maintain Building Automation solutions in the Gurgaon Region covering 40+ Commercial Buildings
 - Led a team of 10 to execute Technical Operations by delivering software solutions and maintenance support at Indira Gandhi International Airport
 - Awarded the Bravo Bronze Star Award for increasing the Project Value substantially through Service Operations
 - Recieved two Gold Star Citations from the Client for improving the efficiency of the client's system 
