@@ -8,8 +8,8 @@
 <br>
 
 ## Career Summary
-- Senior Professional with an Entrepreneurial Minset having 8+ years of Cross Functional Experience in Industrial Automation, Corporate Training and F&B domains
-- Expertise in IT Software, Web ,and Application Development with hands on experience of product development
+- Senior Professional with an Entrepreneurial Mindset having 8+ years of Cross Functional Experience in Industrial Automation, Corporate Training and F&B domains
+- Expertise in IT Software, Web, and Application Development with hands on experience of product development
 
 <br>
 
